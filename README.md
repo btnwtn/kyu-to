@@ -1,4 +1,4 @@
-# キュと (Kyu-to)
+# キュと
 
 | Cute logging
 
