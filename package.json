@@ -1,0 +1,24 @@
+{
+  "name": "kyu-to",
+  "version": "1.0.0",
+  "description": "Better console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btnwtn/kyu-to.git"
+  },
+  "keywords": [
+    "logger",
+    "console.log",
+    "console"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btnwtn/kyu-to/issues"
+  },
+  "homepage": "https://github.com/btnwtn/kyu-to#readme"
+}
