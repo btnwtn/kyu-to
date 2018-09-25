@@ -1,4 +1,4 @@
-# キュと
+# キュート
 
 | Cute logging
 
